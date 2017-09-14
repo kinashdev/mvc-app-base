@@ -1,4 +1,4 @@
-# Aplicação MVC em PHP
+# Aplicação MVC em PHP [![BCH compliance](https://bettercodehub.com/edge/badge/kinashdev/mvc-app-base?branch=master)](https://bettercodehub.com/)
 Uma Aplicação MVC de Base para PHP
 ## Para Fazer
 * Extensões de Controle
@@ -8,7 +8,7 @@ Uma Aplicação MVC de Base para PHP
 
 ## Controladores
 ### Como usar?
-Basta adicionar isso na sua **index.php**:
+Basta adicionar isso na sua **public/index.php**:
 
 `use Application\Controllers as Controller;`
 
