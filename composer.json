@@ -1,0 +1,12 @@
+{
+    "name": "kinash/mvc-app-base",
+    "description": "Uma Aplica\u0000\u0000o MVC de BASE para PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kinashdev",
+            "email": "gabrielrosa2004oficial@outlook.com"
+        }
+    ],
+    "require": {}
+}
