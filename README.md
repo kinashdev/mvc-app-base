@@ -17,4 +17,4 @@ Basta adicionar isso na sua **public/index.php**:
 **OBS:** sem o `nome_de_usuario` não é possível usar os Controladores;
 
 ### Créditos
-**Kinash**. skype: furytfm
+**Kinash**. skype: live:kinashdevelopment
